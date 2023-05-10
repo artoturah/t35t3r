@@ -9,7 +9,7 @@
   ],
   "Ads": [
     {
-      "REAL": false,
+      "REAL": true,
       "MAX_FIRST": false,
       "ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
       "ADMOB_INTERS": "ca-app-pub-3940256099942544/1033173712",
