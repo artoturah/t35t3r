@@ -71,13 +71,18 @@
   //Advice, download, and install
   "Advice": [
     {
+      "GUIDE_THUMB": "https://i1.wp.com/edunik.com/home/wp-content/uploads/2018/12/31-2018-Movies.jpg?fit=1848%2C1068",
+      "GUIDE_TITLE": "Advice Anything",
+      "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+    },
+    {
       "GUIDE_THUMB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqr2CoFxTnsqIavkC5zL1naddXIttlfRBMlkNnvEJSVMAIY2zbykKqOhShy4NCXlzYv8&usqp=CAU",
-      "GUIDE_TITLE": "Tips Appname",
+      "GUIDE_TITLE": "How to Install Appname",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     },
     {
       "GUIDE_THUMB": "https://i.redd.it/8fcn5m3dxzy51.jpg",
-      "GUIDE_TITLE": "Problem Solving",
+      "GUIDE_TITLE": "Download Appname",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     }
   ],
