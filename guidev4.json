@@ -2,6 +2,9 @@
   "Ads": [
     {
       "REAL": false,
+      
+      "MAX_FIRST":false,
+      
       "ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
       "ADMOB_INTERS": "ca-app-pub-3940256099942544/1033173712",
       "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
@@ -26,78 +29,78 @@
   "Intro": [
     {
       //home intro 1
-      "INTRO1_GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "INTRO1_GUIDE_TITLE": "JUDUL PERTAMA",
+      "INTRO1_GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/e53811360eed4b8ba26b5f635d703a7c/3000.jpeg",
+      "INTRO1_GUIDE_TITLE": "Introduction",
       "INTRO1_GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01",
       //home intro 2
-      "INTRO2_GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "INTRO2_GUIDE_TITLE": "JUDUL KEDUA",
+      "INTRO2_GUIDE_THUMB": "https://image.cnbcfm.com/api/v1/image/104768589-movies-anywhere.JPG?v=1507816437&w=1920&h=1080",
+      "INTRO2_GUIDE_TITLE": "What is Appname",
       "INTRO2_GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01",
       //advice intro 1
-      "ADVICE1_GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "ADVICE1_GUIDE_TITLE": "JUDUL KETIGA",
+      "ADVICE1_GUIDE_THUMB": "https://fox11online.com/resources/media/87b11b7b-7c15-415a-b478-748f21614e8b-medium16x9_DecadeFilms.jpg?1577904455774",
+      "ADVICE1_GUIDE_TITLE": "How to use Appname",
       "ADVICE1_GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01",
       //advice intro 2
-      "ADVICE2_GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "ADVICE2_GUIDE_TITLE": "JUDUL KEEMPAT",
+      "ADVICE2_GUIDE_THUMB": "https://cdn.shopify.com/s/files/1/1520/5960/articles/9e623b1c-best-movies-of-2018-the-hundreds-tara-aquino.jpg?v=1545847575",
+      "ADVICE2_GUIDE_TITLE": "Why Use Appname",
       "ADVICE2_GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     }
   ],
   "Features": [
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://therewillbe.games/media/reviews/photos/original/d0/bd/71/best-movies-of-2018-51-1547830495.jpeg",
+      "GUIDE_TITLE": "Easy to use",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://i1.wp.com/edunik.com/home/wp-content/uploads/2018/12/31-2018-Movies.jpg?fit=1848%2C1068",
+      "GUIDE_TITLE": "Watch anywhere",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://hips.hearstapps.com/hmg-prod/images/best-amazon-prime-movies-2018-1530887031.jpg",
+      "GUIDE_TITLE": "Smart TV",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://enoumen.com/wp-content/uploads/2022/06/tv_shows-1280x720.jpg",
+      "GUIDE_TITLE": "Online Streaming",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     }
   ],
   //Advice, download, and install
   "Advice": [
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqr2CoFxTnsqIavkC5zL1naddXIttlfRBMlkNnvEJSVMAIY2zbykKqOhShy4NCXlzYv8&usqp=CAU",
+      "GUIDE_TITLE": "Tips Appname",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://i.redd.it/8fcn5m3dxzy51.jpg",
+      "GUIDE_TITLE": "Problem Solving",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     }
   ],
   //Show alternative list
   "Alternative": [
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqr2CoFxTnsqIavkC5zL1naddXIttlfRBMlkNnvEJSVMAIY2zbykKqOhShy4NCXlzYv8&usqp=CAU",
+      "GUIDE_TITLE": "Alternative 1",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://i.redd.it/8fcn5m3dxzy51.jpg",
+      "GUIDE_TITLE": "Alternative 2",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://enoumen.com/wp-content/uploads/2022/06/tv_shows-1280x720.jpg",
+      "GUIDE_TITLE": "Alternative 3",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     },
     {
-      "GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/c259a652104341c4a494d10c9e4ca092/1000.webp",
-      "GUIDE_TITLE": "JUDUL PERTAMA",
+      "GUIDE_THUMB": "https://i1.wp.com/edunik.com/home/wp-content/uploads/2018/12/31-2018-Movies.jpg?fit=1848%2C1068",
+      "GUIDE_TITLE": "Alternative 4",
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     }
   ]
