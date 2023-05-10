@@ -1,26 +1,27 @@
 {
+  "General": [
+    {
+      "APP_NAME": "Duplex Streaming",
+      "HORIZONTAL_TITLE": "Features >>>",
+      "SUB_MENU": "Alternative of DUPLEX STREAMING"
+    }
+  ],
   "Ads": [
     {
       "REAL": false,
-      
-      "MAX_FIRST":false,
-      
+      "MAX_FIRST": false,
       "ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
       "ADMOB_INTERS": "ca-app-pub-3940256099942544/1033173712",
       "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
-
       "MAX_BANNER": "9a7ce1ee8c4797a3",
       "MAX_INTERS": "1995d7ef3e0f8e99",
       "MAX_NATIVE": "e91676fa550e69fa",
-
       "INTERVAL": 2,
-
       "PROMOTE_GIF": "https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif",
       "PROMOTE_APP_ICON": "https://play-lh.googleusercontent.com/AKSOJkOH2IqMT-zvqcknCyaETyMKXi3e4kIGGdE3Wl4jNAI82j9IiShfyTdslmbLzg=w240-h480-rw",
       "PROMOTE_APP_TITLE": "App Movie Viral",
       "PROMOTE_APP_DESC": "Download Sekarang Juga",
       "PROMOTE_PACKAGE_NAME": "com.justwatch.justwatch",
-
       "REDIRECT_STATUS": false,
       "REDIRECT_BANNER_URL": "https://play-lh.googleusercontent.com/c3OB0wzKaK0zFa_mKlZWQaiNArc3Va_R_mKWlLpQT7EyYRqRHPXJvRh2en5tSrKGOxr6=w2560-h1440-rw",
       "REDIRECT_PACKAGE_NAME": "com.nonton.drakor.indo.asia.dramaqu"
@@ -28,25 +29,21 @@
   ],
   "Intro": [
     {
-      //home intro 1
       "INTRO1_GUIDE_THUMB": "https://storage.googleapis.com/afs-prod/media/e53811360eed4b8ba26b5f635d703a7c/3000.jpeg",
       "INTRO1_GUIDE_TITLE": "Introduction",
       "INTRO1_GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01",
-      //home intro 2
       "INTRO2_GUIDE_THUMB": "https://image.cnbcfm.com/api/v1/image/104768589-movies-anywhere.JPG?v=1507816437&w=1920&h=1080",
       "INTRO2_GUIDE_TITLE": "What is Appname",
       "INTRO2_GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01",
-      //advice intro 1
       "ADVICE1_GUIDE_THUMB": "https://fox11online.com/resources/media/87b11b7b-7c15-415a-b478-748f21614e8b-medium16x9_DecadeFilms.jpg?1577904455774",
       "ADVICE1_GUIDE_TITLE": "How to use Appname",
       "ADVICE1_GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01",
-      //advice intro 2
       "ADVICE2_GUIDE_THUMB": "https://cdn.shopify.com/s/files/1/1520/5960/articles/9e623b1c-best-movies-of-2018-the-hundreds-tara-aquino.jpg?v=1545847575",
       "ADVICE2_GUIDE_TITLE": "Why Use Appname",
       "ADVICE2_GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     }
   ],
-  "Features": [
+  "Horizontal": [
     {
       "GUIDE_THUMB": "https://therewillbe.games/media/reviews/photos/original/d0/bd/71/best-movies-of-2018-51-1547830495.jpeg",
       "GUIDE_TITLE": "Easy to use",
@@ -68,7 +65,6 @@
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     }
   ],
-  //Advice, download, and install
   "Advice": [
     {
       "GUIDE_THUMB": "https://i1.wp.com/edunik.com/home/wp-content/uploads/2018/12/31-2018-Movies.jpg?fit=1848%2C1068",
@@ -86,8 +82,7 @@
       "GUIDE_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
     }
   ],
-  //Show alternative list
-  "Alternative": [
+  "Submenu": [
     {
       "GUIDE_THUMB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqr2CoFxTnsqIavkC5zL1naddXIttlfRBMlkNnvEJSVMAIY2zbykKqOhShy4NCXlzYv8&usqp=CAU",
       "GUIDE_TITLE": "Alternative 1",
