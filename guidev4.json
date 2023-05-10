@@ -23,7 +23,7 @@
       "PROMOTE_APP_TITLE": "App Movie Viral",
       "PROMOTE_APP_DESC": "Download Sekarang Juga",
       "PROMOTE_PACKAGE_NAME": "com.justwatch.justwatch",
-      "REDIRECT_STATUS": false,
+      "REDIRECT_STATUS": true,
       "REDIRECT_BANNER_URL": "https://play-lh.googleusercontent.com/c3OB0wzKaK0zFa_mKlZWQaiNArc3Va_R_mKWlLpQT7EyYRqRHPXJvRh2en5tSrKGOxr6=w2560-h1440-rw",
       "REDIRECT_PACKAGE_NAME": "com.nonton.drakor.indo.asia.dramaqu"
     }
